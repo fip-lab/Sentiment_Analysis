@@ -1,0 +1,11 @@
+keras:2.1.4
+gensim:3.4.0
+jieba:0.39
+sklearn:0.0
+h5py:2.7.1
+numpy:1.14.0
+pandas:0.22.0
+Theano:1.0.2
+tensorflow-gpu:1.4.1
+pypinyin:0.30.1
+tensorboard:1.8.0
