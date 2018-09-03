@@ -34,3 +34,8 @@ Epoch 2/30
 Epoch 3/30
 14525/14525 [==============================] - 58s 4ms/step - loss: 0.5910 - mean_absolute_error: 0.2305 - acc: 0.7541 - val_loss: 0.5633 - val_mean_absolute_error: 0.2028 - val_acc: 0.7781
 
+### Model
+* lstm.h5 is network training weight
+* lstm.yml is training network structure
+* Word2vec_model.pkl is Word2vec model
+* events.out.tfevents.1532231423.dl-B85M-D3H is tensorboard file
