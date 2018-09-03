@@ -9,6 +9,7 @@ Chinese financial short text sentiment analysis
 ## Data preprocessing
 ### lexical analysis
 First, run:
+
 **coreNLP_lexical_analysis.py**(Need to download stanford-corenlp-full-2018-01-3 file in advance) and **jieba_lexical_analysis.py**
 
 Second, combined result of coreNLP lexical analysis and jieba lexical analysis to binarization through **binarization.py**.
