@@ -14,7 +14,7 @@ First, run:
 
 Second, combined result of coreNLP lexical analysis and jieba lexical analysis to binarization through **binarization.py**.
 
-### phrase structure 
+### phrase structure analysis
 
 run **phrase_structure_preprocess.py**
 
