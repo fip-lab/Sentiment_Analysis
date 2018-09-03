@@ -20,7 +20,7 @@ run **phrase_structure_preprocess.py**
 ## Train and Evaluation
 run **./main_code/PYGS_CNN-BiLSTM.py**
 
-80% data is training and 20% data use to be test.
+80% data  training and 20% data use to be test.
 
 ### Example output
 
