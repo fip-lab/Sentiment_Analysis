@@ -1,0 +1,6 @@
+IP,NP,VP,PU,LCP,PP,CP,DNP,ADVP,ADJP,DP,QP,NN,NR,NT,PN,VV,VC,CC,VE,VA,AS,VRD,CD,DT,EX,FW,IN,JJ,JJR,JJS,LS,MD,PDT,POS,PRP,RB,RBR,RBS,RP,SYM,TO,WDT,WP,WP$,WRB,
+addrev,acomp,advcl,advmod,agent,amod,appos,attr,aux,auxpass,cc,ccomp,complm,conj,cop,csubj,csubjpass,dep,det,dobj,expl,infmod,iobj,mark,mwe,neg,nn,npadvmod,
+nsubj,nsubjpass,num,number,parataxis,partmod,pcomp,pobj,poss,possessive,preconj,predet,prep,prepc,prt,punct,purpcl,quantmod,rcmod,ref,rel,root,tmod,xcomp,xsubj
+subj,nsubj,top,npsubj,csubj,xsubj,obj,dobj,iobj,range,pobj,lobj,comp,ccomp,xcomp,acomp,tcomp,lccomp,mod,pass,tmod,rcmod,numod,ornmod,clf,nmod,amod,advmod,vmod
+prnmod,neg,det,possm,poss,dvpm,dvpmod,assm,assmod,prep,clmod,plmod,asp,partmod,etc,conj,cop,cc,attr,cordmod,mmod,ba,tclaus,cpm,DEG
+a,ad,ag,an,b,c,d,df,dg,e,f,g,h,i,j,k,l,m,mg,mq,n,ng,nr,nrfg,nrt,ns,nt,nz,o,p,q,r,rg,rr,rz,s,t,tg,u,ud,ug,uj,ul,uv,uz,v,vd,vg,vi,vn,vq,x,y,z,zg
