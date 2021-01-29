@@ -42,4 +42,4 @@ Epoch 3/30
 
 ## Cite our paper
 
-`Rao, D., Huang, S., Jiang, Z. et al. A dual deep neural network with phrase structure and attention mechanism for sentiment analysis. Neural Comput & Applic (2021). https://doi.org/10.1007/s00521-020-05652-6`
+Rao, D., Huang, S., Jiang, Z. et al. A dual deep neural network with phrase structure and attention mechanism for sentiment analysis. Neural Comput & Applic (2021). https://doi.org/10.1007/s00521-020-05652-6
